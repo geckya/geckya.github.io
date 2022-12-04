@@ -1,5 +1,5 @@
 ---
-title: "Amanda Alvarez"
+title: " "
 
 description: "  "
 
