@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 featured_image: "images/FE9E2F00-A025-4B98-A0F5-D12707B3B96B.jpeg"
-date: 2022-12-03T00:00:00-07:00
+date: 2022-12-03T00:00:00-05:00
 ---
 [Dockless Bikeshare](https://osf.io/xgwh4/)
 

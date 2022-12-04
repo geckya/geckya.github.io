@@ -1,4 +1,4 @@
-baseURL = 'https://geckya.github.io'
+baseURL = 'http://geckya.github.io'
 languageCode = 'en-us'
 title = 'Amanda Alvarez'
 
@@ -8,7 +8,7 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 10
+Paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
 
