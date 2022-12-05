@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Amanda Alvarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 21:10:51 -0700</lastBuildDate><atom:link href="https://gecky.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:01 +0000</lastBuildDate><atom:link href="https://gecky.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimizing the Cost Function in Data Projects (or, Keep it Simple, Stupid)</title>
+      <link>https://gecky.me/posts/lightning-talk/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://gecky.me/posts/lightning-talk/</guid>
+      <description>I&amp;rsquo;ve been working in data and computational science in various capacities in geophysics, finance, civic tech, social good, business analytics, and numerous hobbies for nearly 20 years. In that time, one universal truth I&amp;rsquo;ve found is that data work can get complicated fast. Even the so-called easy things like counting, time, measurements, and naming things aren&amp;rsquo;t always easy, but sometimes we make them harder than they need to be. It&amp;rsquo;s a constant battle to remember that a complicated solution might be fun to build, but it&amp;rsquo;s better to start simple and only add complexity where it&amp;rsquo;s merited.</description>
+    </item>
+    
     <item>
       <title>NormConf is Coming!</title>
       <link>https://gecky.me/posts/normconf-is-coming/</link>

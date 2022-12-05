@@ -1,9 +1,9 @@
 ---
-title: "Minimizing the Cost Function in Data Projects _(or, Keep it Simple, Stupid)_"
+title: "Minimizing the Cost Function in Data Projects (or, Keep it Simple, Stupid)"
 description: "My NormConf Lightning Talk - the transcript"
 date: 2022-12-05T00:00:01-00:00
 featured_image: "/images/lightning-talk-title-slide.png"
-tags: "NormConf"
+tags: ["NormConf"]
 draft: false
 ---
 
