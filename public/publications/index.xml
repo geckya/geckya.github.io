@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Amanda Alvarez</title>
-    <link>http://geckya.github.io/publications/</link>
+    <link>https://gecky.me/publications/</link>
     <description>Recent content in Publications on Amanda Alvarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 -0500</lastBuildDate><atom:link href="http://geckya.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://gecky.me/publications/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
