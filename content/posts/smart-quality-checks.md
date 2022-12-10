@@ -4,7 +4,7 @@ description: "What makes a good data quality check?"
 date: 2022-12-12T00:00:01-00:00
 featured_image: "/images/bad-egg.png"
 tags: ["data quality", "data ops"]
-draft: true
+draft: false
 ---
 
 Data quality checks are a critical tool in the data pro's toolbox to ensure SLAs are maintained, but poorly designed checks can lead to a life of on-call misery, a constant flow of "why is this data wrong?" inquiries, or (worst of all) unecessarily Bad Data. But what makes a good data quality check?
