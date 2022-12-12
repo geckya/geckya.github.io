@@ -9,7 +9,7 @@ draft: false
 
 Everyone wants "good" data. Almost as universal is the sense that the data you're working with is...not good. Being able to objectively measure data quality is important for ensuring downstream modeling and decision making is built on reliable data, but it can be hard to measure and report on data quality without a framework for identifying what features of the data are good/bad.
 
-Metadata features with expectations that can be defined (and measured against!) are _dimensions_ of data quality. Depending on who's counting, there are somewhere between 5-10 generally accepted dimensions. I like to keep the list shorter, both because it's easier for me to remember, but also because it starts getting really confusing when there's too much room for overlap between dimensions.
+Data features with expectations that can be defined (and measured against!) are _dimensions_ of data quality. Depending on who's counting, there are somewhere between 5-10 generally accepted dimensions. I like to keep the list shorter, both because it's easier for me to remember, but also because it starts getting really confusing when there's too much room for overlap between dimensions.
 
 **Completeness**
 For our data to be complete, there should be no nulls where nulls are not allowed - that may mean a record exists but a non-nullable field is blank, or an expected record could be missing entirely. Uniqueness is sometimes included in lists of data quality dimensions; I prefer to think of it as an element of completeness - "overcompleteness," in a sense.
