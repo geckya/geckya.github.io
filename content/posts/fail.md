@@ -1,0 +1,20 @@
+---
+title: "FAIL"
+description: "Failure is often a more effective teacher than theory."
+date: 2022-12-03T21:10:51-07:00
+featured_image: "/images/penguin_fail.jpeg"
+tags: ["NormConf"]
+draft: false
+---
+
+There’s a lot that I don’t recall from my time as an engineering student, but one thing I do remember is studying failures, like the [Tacoma Narrows Bridge collapse](https://www.youtube.com/watch?v=YM_XVVkZN0s). I’ve forgotten which other disasters we covered, along with most of the mechanical principles at play, but the meta-lesson may be the most important takeaway from my engineering education: sometimes, you can learn more about how something works from seeing where (and how) it breaks than from studying how it’s supposed to work.
+
+Looking back, I realize that I started learning from design failures long before I ever walked into an engineering class. In elementary school, we had an assignment to design and build a protective cage for an egg, and we spent an entire afternoon outside watching our teacher climb up a ladder to drop each of our caged eggs from higher and higher, until the contents of every last egg splattered on the blacktop. In middle school, we built bridges from toothpicks and Elmer’s glue, and tested them to see how much weight they could bear. For us to learn which designs/builds were best, they had to be taken to the breaking point.
+
+Of course, not all failures are created equal. Using the wrong units of measurement on a high school test leads to points off your grade. Do it in your job, [NASA loses a Mars orbiter](https://solarsystem.nasa.gov/missions/mars-climate-orbiter/in-depth/). Poorly designed impact protection is messy when you’re dropping eggs off ladders, but can lead to serious injury or loss of life in car crashes. The cost of failure varies, as does the potential value of the lessons learned from examining failures. Naturally, we’d like to minimize the costs of failure while maximizing the value of learning from them — so test environments exist to help us do both those things. Simulations using physical and/or computational modeling allow for hypothesis testing in a way that lets us explore the failure space faster, safer, cheaper, and more completely than “testing in prod”.
+
+It’s important to learn from failure — not just our own, but that of others as well. If you’re going to err, it’s best to be original. [New mistakes](https://youtu.be/c6rP-YP4c5I?t=150) are more valuable than repeated ones. It’s often a blow to our egos to realize we’ve done something stupid, and we may instinctively want to bury the mistake, but this does everyone a disservice. Reducing repeat failures requires opening up a museum of past errors and lessons learned.
+
+Onboarding new team members has been a non-negligible part of nearly every job I’ve ever held, and when I’m introducing someone to a data product, model, or project, I try to make a point of walking through a recent failure/issue, rather than simply describe the theoretical “here’s how it works”. This serves multiple purposes — introduce the topic (with its warts), demonstrate the mechanics of debugging issues related to the topic, and lower the barrier to bringing future problems to me for discussion. That’s useful on a limited scale, but normalizing failure and talking about it need to happen more widely. *Data Mishaps Night* does this at community scale. The third annual [DaMN](https://datamishapsnight.com/) (best acronym ever, btw) is coming up on 2023-02-23, and registration and request for speaker submissions are open now.
+
+It’s important to share our failures, and to create safe environments for others to feel comfortable sharing theirs. This is especially true for people in positions of relative power (managers, experienced folks, parents), but applies to everyone. The more our past failures are brought out into the open, the easier it is to share in the lessons learned from them — and the more likely we are to have our future mistakes be new and different.
