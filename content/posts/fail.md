@@ -1,9 +1,9 @@
 ---
 title: "FAIL"
 description: "Failure is often a more effective teacher than theory."
-date: 2022-12-03T21:10:51-07:00
+date: 2023-01-16T23:57:00-07:00
 featured_image: "/images/penguin_fail.jpeg"
-tags: ["NormConf"]
+tags: ["always-be-learning"]
 draft: false
 ---
 
