@@ -1,0 +1,12 @@
+---
+title: ""
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+<img src="images/mirror_lake.jpg" alt="Mirror Lake, CO" width="100%"/>
+
+Hi, I’m Amanda. I’m a data and computational scientist who's worn a lot of hats doing full-stack data work and technical advocacy in geophysics, finance, civic tech, social good projects, business analytics, and numerous hobbies. I love puzzles and problem solving.
+
+Outside of my data work, I enjoy beekeeping, various fiber arts, rock climbing, exploring the mountains, baking, tacos, and helping my kids explore new hobbies/passions of their own.

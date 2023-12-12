@@ -1,0 +1,19 @@
+---
+title: "Data and Tacos"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+On [Data and Tacos](http://buttondown.email/gecky), I write about data work, weighted toward breaking down the analytical thinking process.
+
+Expect occasional taco-related content, which may or may not be data-related.
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/gecky?as_embed=true"
+></iframe><br /><br />
+
+<embed src="http://buttondown.email/gecky/archive" width="100%" height="600">

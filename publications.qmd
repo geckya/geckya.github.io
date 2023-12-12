@@ -1,0 +1,17 @@
+---
+title: "Projects and Publications"
+---
+
+<img src="images/flor.jpg" alt="macro image of a red flower with a yellow center" width="100%"/>
+
+* In 2022, I gave a [NormConf](www.normconf.com) Lightning Talk called [Minimizing the Cost Function in Data Projects (or, Keep it Simple, Stupid)](https://youtu.be/Z-xnFdtCL0o).
+
+* In the early days of [Dockless Bikeshare](https://osf.io/re2hg) in Washington, DC, I did work that helped inform the decision making process for whether to continue the pilot, starting from some high-level policy questions and some data that no one had ever really worked with before.
+
+* Partnering with an immigration law non-profit, I've done a few projects in support of their work (both for public consumption and for use in their legal work), including:
+    + [Scraping](https://github.com/geckya/DACA-USCIS) and [visualizing](https://dedidi.me/daca.gif) USCIS data on DACA recipients
+    + Building and analyzing [datasets](https://data.world/gecky/20020101-20170321-rpc-refugees) to obtain a deeper understanding of the demographics of the refugees from countries affected by various shifting immigration policies.
+
+* During my time working in computational geophysics, I had the opportunity to author/coauthor a number of scientific publications. One particularly nice example of cutting-edge work my colleagues and I did on reservoir saturation prediction was this [Barents Sea Case Study](http://em.geosci.xyz/content/case_histories/barents_sea/index.html). Check out [Google Scholar](https://scholar.google.com/citations?user=ISDkbjQAAAAJ&hl=en&oi=ao) for a full bibliography.
+
+* Data invades my hobbies, too. With a friend, I created [Wearing Wiki](https://www.wearingwiki.com), a reference site for babywearing techniques using woven wraps. The Wearing Wiki improved the accessibility of this instructional information for caregivers of all body types and abilities.
