@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Amanda Alvarez"
+  favicon: "images/pinapinguina.png"
   navbar:
     left:
       - href: index.qmd
