@@ -12,11 +12,19 @@ website:
       - newsletter.qmd
       - publications.qmd
     right:
+      - icon: bluesky
+        href: https://bsky.app/profile/gecky.me
+        aria-label: Bluesky
       - icon: mastodon
         href: https://data-folks.masto.host/@gecky
         aria-label: Mastodon
+  body-footer:
+    <div id='data-ring-dot-list'>
+    <script type="text/javascript" src="https://randyau.github.io/datawebring/onionring-variables.js"></script>
+    <script type="text/javascript" src="https://randyau.github.io/datawebring/onionring-widget.js"></script>
+    </div>
   page-footer:
-    left: "&copy; 2023 Amanda Alvarez"
+    left: "&copy; 2024 Amanda Alvarez"
 
 format:
   html:
