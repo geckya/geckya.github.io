@@ -9,8 +9,8 @@ website:
     left:
       - href: index.qmd
         text: About
-      - newsletter.qmd
       - publications.qmd
+      - newsletter.qmd
     right:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/gecky.me
