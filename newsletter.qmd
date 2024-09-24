@@ -8,6 +8,11 @@ jupyter: python3
 
 On [Data and Tacos](https://buttondown.email/gecky), I write about data work, weighted toward breaking down the analytical thinking process.
 
-Expect occasional taco-related content, which may or may not be data-related.
+Expect sporadic posts and occasional taco-related content, which may or may not be data-related.
 
-<embed src="https://buttondown.email/gecky/archive" width="100%" height="600">
+<iframe
+scrolling="no"
+style="width:100%!important;height:1050px;border:1px #ccc solid !important"
+src="https://buttondown.email/gecky/archive?as_embed=true"
+></iframe><br /><br />
+
