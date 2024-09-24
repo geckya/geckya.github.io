@@ -6,8 +6,8 @@ format:
 jupyter: python3
 ---
 
-On [Data and Tacos](http://buttondown.email/gecky), I write about data work, weighted toward breaking down the analytical thinking process.
+On [Data and Tacos](https://buttondown.email/gecky), I write about data work, weighted toward breaking down the analytical thinking process.
 
 Expect occasional taco-related content, which may or may not be data-related.
 
-<embed src="http://buttondown.email/gecky/archive" width="100%" height="600">
+<embed src="https://buttondown.email/gecky/archive" width="100%" height="600">
