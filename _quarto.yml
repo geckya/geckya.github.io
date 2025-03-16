@@ -15,9 +15,6 @@ website:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/gecky.me
         aria-label: Bluesky
-      - text: "{{< fa brands mastodon >}}"
-        href: https://data-folks.masto.host/@gecky
-        aria-label: Mastodon
   page-footer:
     center: <div id='data-ring-dot-list'>
         <script type="text/javascript" src="https://randyau.github.io/datawebring/onionring-variables.js"></script>
