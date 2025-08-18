@@ -377,3 +377,31 @@ body.light-mode .nav-footer-left {
         text-align: center;
     }
 }
+
+/* Webring specific styling */
+#data-ring-dot-list {
+    text-align: center;
+    padding: 1rem;
+}
+
+#data-ring-dot-list a {
+    color: #e8e2d4 !important;
+    text-decoration: underline !important;
+    font-size: 0.9rem;
+    margin: 0 0.5rem;
+    transition: color 0.3s ease;
+}
+
+#data-ring-dot-list a:hover {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+/* Light mode webring styling */
+body.light-mode #data-ring-dot-list a {
+    color: #2c3e2d !important;
+}
+
+body.light-mode #data-ring-dot-list a:hover {
+    color: #1a2420 !important;
+}
