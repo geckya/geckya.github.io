@@ -405,3 +405,101 @@ body.light-mode #data-ring-dot-list a {
 body.light-mode #data-ring-dot-list a:hover {
     color: #1a2420 !important;
 }
+
+/* Projects/Content Pages */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+main h1 {
+    text-align: left;
+    margin-bottom: 2.5rem;
+    font-size: 2.5rem;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+section h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #e8e2d4;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #3a5a3c;
+    padding-bottom: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+body.light-mode section h2 {
+    color: #2c3e2d;
+    border-bottom-color: #d4c5a0;
+}
+
+section ul {
+    list-style: none;
+    padding: 0;
+}
+
+section li {
+    margin-bottom: 1.5rem;
+    padding-left: 0;
+    line-height: 1.7;
+    color: #9aa59d;
+    transition: color 0.3s ease;
+}
+
+body.light-mode section li {
+    color: #4a5a4d;
+}
+
+section li strong {
+    color: #e8e2d4;
+    font-weight: bold;
+}
+
+body.light-mode section li strong {
+    color: #2c3e2d;
+}
+
+section a {
+    color: #d4c5a0;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+section a:hover {
+    color: #e8e2d4;
+    text-decoration: none;
+}
+
+body.light-mode section a {
+    color: #5a7a5c;
+}
+
+body.light-mode section a:hover {
+    color: #2c3e2d;
+}
+
+section ul ul {
+    margin-top: 0.5rem;
+    margin-left: 1.5rem;
+}
+
+section ul ul li {
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+}
+
+section p {
+    color: #9aa59d;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    transition: color 0.3s ease;
+}
+
+body.light-mode section p {
+    color: #4a5a4d;
+}
