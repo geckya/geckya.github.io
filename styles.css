@@ -503,3 +503,26 @@ section p {
 body.light-mode section p {
     color: #4a5a4d;
 }
+
+.nav-footer-right {
+    text-align: right;
+}
+
+.nav-footer-right a {
+    color: #a8b5ab;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-footer-right a:hover {
+    color: #d4c5a0;
+    text-decoration: underline;
+}
+
+body.light-mode .nav-footer-right a {
+    color: #5a7a5c;
+}
+
+body.light-mode .nav-footer-right a:hover {
+    color: #2c3e2d;
+}
